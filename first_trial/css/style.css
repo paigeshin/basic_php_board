@@ -1,0 +1,59 @@
+body {
+    margin: 30px;
+    text-align: center;
+}
+
+table{
+    border: 1px solid deepskyblue;
+    margin: 0 auto;
+}
+
+tr {
+    text-align: center;
+    border: 1px solid lightskyblue;
+}
+
+p {
+    text-align: left;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button a:hover {
+    color: black;
+}
+
+button:hover {
+    color: black;
+}
+
+button {
+    padding: 10px 50px;
+    font-size: 1.5rem;
+    background-color: #0e84b5;
+    color: white;
+}
+
+.col-idx {
+    width: 70px;
+}
+
+.col-title {
+    width: 500px;
+}
+
+.col-name {
+    width: 120px;
+}
+
+.col-date {
+    width: 100px;
+}
+
+.col-hit {
+    text-align: inherit;
+}
+
